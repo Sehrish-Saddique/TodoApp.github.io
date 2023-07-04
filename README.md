@@ -7,7 +7,8 @@ The Todo List Basic App is a simple yet powerful application designed to help yo
 ## Features
 
 - Task Creation: Easily add new tasks by typing them into the task input field and pressing Submit button.
-- Task List: View all your tasks in a clean and organized list.  
+- Task List: View all your tasks in a clean and organized list.
+- Task Deletion: After peroforming tasks, they can be deleted.by clicking Delete button.
  
     
  
